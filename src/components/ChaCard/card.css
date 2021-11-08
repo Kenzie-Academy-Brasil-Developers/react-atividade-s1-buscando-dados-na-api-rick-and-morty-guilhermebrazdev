@@ -1,0 +1,22 @@
+#name {
+  width: 300px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#card {
+  margin-top: 10px;
+  border-radius: 8px;
+  height: 470px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardGreen {
+  background: green;
+}
+.cardRed {
+  background: red;
+}
